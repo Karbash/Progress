@@ -1,2 +1,2 @@
-# VeraCruz
-Jogo com temática histórica brasileira
+# System Progress
+Sistema de Gerenciamento Industrial 
